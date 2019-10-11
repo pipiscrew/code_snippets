@@ -1,0 +1,2 @@
+Open Enterprise Manager. 
+Right click on your server name and choose 'Edit SQL Server Registration properties...' from the popup menu. This presents the 'Registered SQL Server Properties' dialog box. In the bottom half of this dialog box, there is a check box against 'Show system databases and system objects'. Check it to show system databases/tables or uncheck it to hide system databases/tables.

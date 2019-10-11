@@ -1,0 +1,1 @@
+ String farewell = s.replaceAll("Hello, (\\S+)", "Goodbye, $1");

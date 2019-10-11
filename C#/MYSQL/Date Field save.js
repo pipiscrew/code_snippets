@@ -1,0 +1,1 @@
+companiesOBJ.date_rec = DateTime.Parse(DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));

@@ -1,0 +1,1 @@
+txtSQL.ActiveTextAreaControl.SelectionManager.SelectedText

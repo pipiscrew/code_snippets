@@ -1,0 +1,1 @@
+DateTime Diorganwsh_StartHmeromhnia = new DateTime(1979,1,1); 

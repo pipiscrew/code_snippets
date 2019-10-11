@@ -1,0 +1,1 @@
+Activity.LoadLayout("main")

@@ -1,0 +1,1 @@
+//https://msdn.microsoft.com/en-us/library/vstudio/ydy4x04a(v=vs.100).aspx

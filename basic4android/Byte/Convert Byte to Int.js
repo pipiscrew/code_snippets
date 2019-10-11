@@ -1,0 +1,1 @@
+Bit.And(Buffer(i), 0xFF)

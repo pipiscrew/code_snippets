@@ -1,0 +1,1 @@
+pathIS = Left$(arr1(i), InStrRev(arr1(i), "\"))

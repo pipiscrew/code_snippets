@@ -1,0 +1,1 @@
+echo @"<li><a href=\"$_PHP_SELF?page=$last\">Previous</a></li> ";

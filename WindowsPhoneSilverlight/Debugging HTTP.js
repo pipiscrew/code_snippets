@@ -1,0 +1,1 @@
+Is by setting the WiFi proxy on the phone to your machine’s IP, then using Fiddler2, and enabling the “Remote connections” option under Fiddler’s options

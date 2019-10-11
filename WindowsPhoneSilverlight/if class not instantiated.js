@@ -1,0 +1,1 @@
+if (General.stations == null)

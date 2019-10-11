@@ -1,0 +1,1 @@
+System.Diagnostics.Process.Start("c:\windows\explorer.exe", "/select, " & lstv2.SelectedItems(0).Text)

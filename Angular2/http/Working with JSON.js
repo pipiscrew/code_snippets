@@ -1,0 +1,1 @@
+http://choly.ca/post/typescript-json/

@@ -1,0 +1,1 @@
+Set rsTemp = GetRecordSet("select MediaID,MediaGenreID,MediaName from Base order by MediaGenreID,Left(MediaName, 255)")

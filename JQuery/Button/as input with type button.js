@@ -1,0 +1,1 @@
+<input type="button" class="btn btn-primary" value="ΕΣΟΔΑ" onclick="window.location='income.html';"/>

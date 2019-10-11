@@ -1,0 +1,5 @@
+        lstv.Columns.Add("", 54)
+        lstv.Columns.Add("name", 100)
+        lstv.Columns.Add("tel", 80)
+        lstv.Columns.Add("age", 50)
+        lstv.Columns.Add("shipped items", 0)

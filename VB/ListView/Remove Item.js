@@ -1,0 +1,1 @@
+lstv.ListItems.Remove (lstv.SelectedItem.Index)

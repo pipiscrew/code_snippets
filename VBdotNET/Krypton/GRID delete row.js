@@ -1,0 +1,1 @@
+ChecksGRID.Rows.RemoveAt(ChecksGRID.SelectedRows(0).Index)

@@ -1,0 +1,1 @@
+AddHandler Products.ListBox.MouseDoubleClick, AddressOf Products_MouseDoubleClick

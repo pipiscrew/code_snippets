@@ -1,0 +1,1 @@
+<span class="icon-globe-1" style="font-size:1.5em;"></span>

@@ -1,0 +1,1 @@
+textbox1.text = Char.ConvertFromUtf32(Convert.ToInt32(offsetHEXvalue, 16))

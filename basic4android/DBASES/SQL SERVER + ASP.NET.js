@@ -1,0 +1,1 @@
+//http://www.basic4ppc.com/forum/basic4android-getting-started-tutorials/13166-connect-android-ms-sql-server-tutorial.html

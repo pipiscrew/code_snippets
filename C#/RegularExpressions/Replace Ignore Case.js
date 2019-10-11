@@ -1,0 +1,1 @@
+                                type.Name = System.Text.RegularExpressions.Regex.Replace(type.Name, row.Cells[0].Value.ToString(), row.Cells[1].Value != null ? row.Cells[1].Value.ToString() : "", System.Text.RegularExpressions.RegexOptions.IgnoreCase);

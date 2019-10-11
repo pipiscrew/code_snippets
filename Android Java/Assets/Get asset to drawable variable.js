@@ -1,0 +1,1 @@
+Drawable d = Drawable.createFromStream(getAssets().open("Cloths/btn_no.png"), null);

@@ -1,0 +1,13 @@
+        Dim indexes As ComponentFactory.Krypton.Toolkit.KryptonCheckedListBox.CheckedIndexCollection = LIST1.CheckedIndices
+        Dim index As Integer
+        Dim tmp$ = ""
+
+        If indexes.Count = 0 Then
+            MsgBox("???????? ????????? ????/????? ???????? ?????? ??? ?? test ???", MsgBoxStyle.Information, apTitle)
+            Exit Sub
+        End If
+
+
+        For Each index In indexes
+            tmp = tmp & index + 1 & ","
+        Next

@@ -1,0 +1,1 @@
+Cursor.Position = new System.Drawing.Point(button1.Location.X + this.Location.X + 50, button1.Location.Y + this.Location.Y + 30);

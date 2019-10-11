@@ -1,0 +1,1 @@
+File.Size(File.DirRootExternal, "test.txt")

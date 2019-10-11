@@ -1,0 +1,1 @@
+If User.Length = 0 Then oSQLServer.LoginSecure = True

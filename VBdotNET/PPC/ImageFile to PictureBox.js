@@ -1,0 +1,1 @@
+PictureBox1.Image = New Bitmap(New FileStream(GetApplicationPath() & "\" & comp & "\" & fl & ".jpg", FileMode.Open, FileAccess.Read))

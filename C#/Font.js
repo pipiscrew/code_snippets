@@ -1,0 +1,1 @@
+dataGridView1.DefaultCellStyle.Font = new Font("Tahoma", 9,FontStyle.Regular);

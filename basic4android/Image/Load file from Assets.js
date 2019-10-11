@@ -1,0 +1,1 @@
+ImageView1.Bitmap =LoadBitmap(File.DirAssets ,"greece.png")

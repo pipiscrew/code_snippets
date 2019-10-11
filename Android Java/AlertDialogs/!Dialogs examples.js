@@ -1,0 +1,1 @@
+http://www.linuxtopia.org/online_books/android/devguide/guide/topics/ui/dialogs.html

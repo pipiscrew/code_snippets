@@ -1,0 +1,1 @@
+If MsgBox("You are going to delete Volume: [" & Combo1.ItemData(Combo1.ListIndex) & "] and it contains " & vbCrLf & vbCrLf & Fail & "Are you sure ??", vbCritical + vbYesNo, apTitle) = vbNo Then Exit Sub

@@ -1,0 +1,1 @@
+ File.WriteAllBytes("d:\\report.xls", ecigaretterLifeCalculator.Properties.Resources.report);

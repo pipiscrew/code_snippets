@@ -1,0 +1,1 @@
+General.ADOClass.AddParameter("@Κατάταξη", DBNull.Value, OleDbType.Integer, ParameterDirection.Input); 

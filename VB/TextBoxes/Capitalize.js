@@ -1,0 +1,1 @@
+Text2 = StrConv(Text2, vbProperCase)

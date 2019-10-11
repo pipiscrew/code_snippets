@@ -1,0 +1,1 @@
+PictureBox1.Image = Image.FromFile(TextBox1.Text & "\" & ListBox1.Items.Item(i).ToString)

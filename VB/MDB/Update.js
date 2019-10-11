@@ -1,0 +1,1 @@
+Update table set field=" & Combo1.ItemData(Combo1.ListIndex) & " where id in(" & iDs & ")")

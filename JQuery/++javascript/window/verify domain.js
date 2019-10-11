@@ -1,0 +1,1 @@
+location.hostname != "demo.google.hu"

@@ -1,0 +1,1 @@
+ListBox2.Items(ListBox2.SelectedIndex) = "test"

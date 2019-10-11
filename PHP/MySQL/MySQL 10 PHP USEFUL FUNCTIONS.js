@@ -1,0 +1,1 @@
+http://arteraktiv.com/2010/10/22/simple-php-mysql-blog-example/

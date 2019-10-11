@@ -1,0 +1,1 @@
+public List<Dictionary<string, string>> AnyString {get; set;}

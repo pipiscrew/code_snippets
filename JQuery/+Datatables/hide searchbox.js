@@ -1,0 +1,1 @@
+"bFilter" : false //hide searchbox

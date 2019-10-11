@@ -1,0 +1,1 @@
+http://msdn.microsoft.com/library/default.asp?url=/library/en-us/shellcc/platform/commctls/wincontrols.asp

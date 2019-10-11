@@ -1,0 +1,1 @@
+android:background="@android:color/white"

@@ -1,0 +1,1 @@
+GridDynamicValues.DisplayLayout.Bands(0).ColHeadersVisible = False

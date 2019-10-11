@@ -1,0 +1,1 @@
+set @kwdikos_3 = left(@kwdikos_3,len(@kwdikos_3)-1)set @kwdikos_3 = left(@kwdikos_3,len(@kwdikos_3)-1)

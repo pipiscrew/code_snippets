@@ -1,0 +1,1 @@
+echo (new DateTime(null, new DateTimeZone('UTC')))->format('U.u');

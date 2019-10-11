@@ -1,0 +1,1 @@
+$tbl_rows.="<td style='margin:0 0;padding:0 0 2px 0;font:normal 13px/16px Arial, Helvetica, sans-serif;color:#777;text-align: justify;'>Daily Default : {$ad_price_daily_default}<br>Daily Current : {$ad_price_user}</td>";

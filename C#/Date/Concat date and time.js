@@ -1,0 +1,2 @@
+            DateTime Apo = new DateTime(dtpDiorgDate.Value.Year, dtpDiorgDate.Value.Month, dtpDiorgDate.Value.Day, timeDiorgStart.Value.Hour, timeDiorgStart.Value.Minute, 0, DateTimeKind.Local);
+            DateTime Ews = new DateTime(dtpDiorgDate.Value.Year, dtpDiorgDate.Value.Month, dtpDiorgDate.Value.Day, timeDiorgEnd.Value.Hour, timeDiorgEnd.Value.Minute, 0, DateTimeKind.Local); 

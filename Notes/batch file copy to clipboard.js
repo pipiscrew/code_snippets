@@ -1,0 +1,1 @@
+<nul set /p x="costas"| Clip

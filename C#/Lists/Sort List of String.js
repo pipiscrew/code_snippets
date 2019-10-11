@@ -1,0 +1,1 @@
+ListaServizi =ListaServizi.OrderBy(q => q).ToList();

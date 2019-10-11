@@ -1,0 +1,4 @@
+AcceptButton
+CancelButton
+
+properties

@@ -1,0 +1,1 @@
+MsgBox(System.Net.Dns.GetHostEntry("maniaxdream").AddressList(0).ToString)

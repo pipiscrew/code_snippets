@@ -1,0 +1,13 @@
+@echo off
+IF EXIST "%PROGRAMFILES(X86)%" (GOTO 64BIT) ELSE (GOTO 32BIT)
+
+:64BIT
+echo 64-bit...
+GOTO END
+
+:32BIT
+echo 32-bit...
+GOTO END
+
+:END
+pause

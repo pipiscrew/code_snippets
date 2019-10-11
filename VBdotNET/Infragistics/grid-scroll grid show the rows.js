@@ -1,0 +1,1 @@
+DisplayLayout > ScrollStyle = Immediate

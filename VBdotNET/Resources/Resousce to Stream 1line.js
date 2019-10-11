@@ -1,0 +1,1 @@
+virtualKeyboard1.DefaultLayout = FPS.VirtualKeyboard.Serializer.Load(Of FPS.VirtualKeyboard.KeyboardLayout)(Me.[GetType]().Assembly.GetManifestResourceStream("FPS.VirtualKeyboard.Samples.VS2008.VB.CustomLayout.xml"))

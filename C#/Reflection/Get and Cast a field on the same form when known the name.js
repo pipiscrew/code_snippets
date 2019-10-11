@@ -1,0 +1,2 @@
+            //dynamic get the report
+            PerpetuumSoft.Reporting.Components.InlineReportSlot report = General.GetFieldValue<PerpetuumSoft.Reporting.Components.InlineReportSlot>(this, reportName);

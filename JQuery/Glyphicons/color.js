@@ -1,0 +1,1 @@
+<span class="glyphicon glyphicon-exclamation-sign" style="color:red" title="Daily rate can not be lower than 1"></span>

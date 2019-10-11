@@ -1,0 +1,1 @@
+DisplayLayout > GroupByBox > Hidden = True

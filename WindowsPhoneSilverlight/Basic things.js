@@ -1,0 +1,1 @@
+http://10rem.net/blog/2010/03/15/building-your-first-silverlight-for-windows-phone-application

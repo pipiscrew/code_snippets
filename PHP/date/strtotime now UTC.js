@@ -1,0 +1,1 @@
+strtotime('today UTC')

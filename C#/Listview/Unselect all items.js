@@ -1,0 +1,1 @@
+lstv.SelectedItems.Clear();

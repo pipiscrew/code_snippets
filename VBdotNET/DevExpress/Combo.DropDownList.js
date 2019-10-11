@@ -1,0 +1,1 @@
+Combo.properties > TextEditStyle = DisableTextEditor

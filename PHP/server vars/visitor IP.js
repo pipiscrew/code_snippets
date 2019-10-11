@@ -1,0 +1,1 @@
+$ipadress = $_SERVER['REMOTE_ADDR'];

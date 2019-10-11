@@ -1,0 +1,1 @@
+//http://www.basic4ppc.com/forum/basic4android-getting-started-tutorials/14494-imageview-rounded-corners.html#post82039

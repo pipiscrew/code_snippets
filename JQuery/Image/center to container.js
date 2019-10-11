@@ -1,0 +1,1 @@
+<center><img src="imgName.gif" alt="image description" height="100" width="100"></center>

@@ -1,0 +1,1 @@
+DateTimePicker1.Value = Now.AddDays(-30)

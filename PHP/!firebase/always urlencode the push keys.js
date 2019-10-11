@@ -1,0 +1,1 @@
+$compID = urlencode($_POST['compID']);

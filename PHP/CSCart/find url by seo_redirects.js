@@ -1,0 +1,1 @@
+$rows = getSet($db,"select * from cscart_seo_redirects where object_id = ? and type = 'c' and lang_code='el'",array($_POST["accessory_two"]));

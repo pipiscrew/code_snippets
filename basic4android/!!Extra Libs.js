@@ -1,0 +1,1 @@
+http://www.basic4ppc.com/android/wiki/index.php/Libraries

@@ -1,0 +1,4 @@
+            string Reg = @"<html><head><title>Category:	Ceremony Sites</title></head><body><h1>Category:	Ceremony Sites</h1><h3>1/1/2001 12:00:00 πμ</h3><p><div>Category:<span class=""Apple-tab-span"" style=""white-space:pre"">	</span>Ceremony Sites</div><div>Address:<span class=""Apple-tab-span"" style=""white-space:pre"">	</span> 221 Dorcas St</div><div>South Melbourne, VIC 3205, AU</div><div><br></div>ST.EUSTATHIOS GREEK ORTHODOX CHURCHb<div><br></div><div>Despoth - 96962488</div></p></body></html>";
+            Regex re;
+            re = new Regex(@"(?></?\w+)(?>(?:[^>'""]+|'[^']*'|""[^""]*"")*)>");
+            Reg = re.Replace(Reg, "");

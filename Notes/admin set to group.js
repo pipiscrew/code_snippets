@@ -1,0 +1,3 @@
+Right Click MyComputer > Manage > Local Users and Groups > Groups > Administrators double click > your name should be there, if not press add...
+
+Task Scheduler, when no admin, gives - Error Value: 2147943785

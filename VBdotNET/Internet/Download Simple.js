@@ -1,0 +1,1 @@
+My.Computer.Network.DownloadFile("http://www.google.co.uk/favicon.ico", "googicon.ico")

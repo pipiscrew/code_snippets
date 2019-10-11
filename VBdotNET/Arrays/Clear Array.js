@@ -1,0 +1,1 @@
+Array.Clear(arrAllLinks, 0, UBound(arrAllLinks) - 1)

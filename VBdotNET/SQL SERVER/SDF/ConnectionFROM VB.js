@@ -1,0 +1,1 @@
+sqlC = New SQLCeClass("Data Source=C:\Documents and Settings\Admin\Desktop\ChecksOrganizer\data.sdf;Password=Oz$R43uZC#RZ0W3NqH")

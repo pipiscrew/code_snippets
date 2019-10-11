@@ -1,0 +1,1 @@
+var title = name[1].replace(/^.*[\\\/]/, '');

@@ -1,0 +1,1 @@
+basename(__FILE__, '.php')

@@ -1,0 +1,1 @@
+		echo "<div class='container'><div class='alert alert-success'>Message sent. Thank you!</div></div><script>    setTimeout(function(){window.location='index.php';}, 2000); </script>";

@@ -1,0 +1,2 @@
+$("#example ul").html('Content to replace');
+You can select the div with the ID selector #. A space is used as an descendant selector, and .text changes the text content. You could also use .html to replace HTML content.

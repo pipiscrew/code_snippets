@@ -1,0 +1,1 @@
+http://www.basic4ppc.com/forum/libraries-developers-questions/17691-ms-sql.html#post101644

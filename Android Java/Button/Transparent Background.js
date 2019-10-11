@@ -1,0 +1,1 @@
+btnText.setBackgroundColor(Color.TRANSPARENT);

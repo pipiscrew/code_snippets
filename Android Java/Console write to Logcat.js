@@ -1,0 +1,1 @@
+Log.w("myApp", "no network")

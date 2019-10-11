@@ -1,0 +1,1 @@
+Me.ComboBox1.Items.AddRange(New Object() {"No", "Yes!"})

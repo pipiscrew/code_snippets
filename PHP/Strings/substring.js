@@ -1,0 +1,1 @@
+$title = substr($title, 0,50);

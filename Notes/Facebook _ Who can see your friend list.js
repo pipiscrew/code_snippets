@@ -1,0 +1,3 @@
+-Go to your timeline (aka https://www.facebook.com/ur.name)
+-Click on 'friends' tab, then on frame below the pencil icon 
+-Edit privacy > 'Who can see your freind list' ?

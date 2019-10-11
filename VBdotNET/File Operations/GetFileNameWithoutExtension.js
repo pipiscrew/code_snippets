@@ -1,0 +1,1 @@
+createRARfl = System.IO.Path.GetFileNameWithoutExtension(item.Text)

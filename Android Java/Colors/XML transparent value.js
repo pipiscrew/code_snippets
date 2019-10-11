@@ -1,0 +1,1 @@
+ android:color="@android:color/transparent"

@@ -1,0 +1,1 @@
+getClass().getName() + '@' + Integer.toHexString(hashCode())

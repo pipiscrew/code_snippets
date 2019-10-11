@@ -1,0 +1,1 @@
+		<td style="background:#376092; width:600px; padding:7px; color:#fff; font:bold 20px/14px Arial;" align="center">Ad Objectives</td>

@@ -1,0 +1,1 @@
+<input name="send_ppl_2_website" type="number" min="0" max="100" step="10" placeholder="100%">

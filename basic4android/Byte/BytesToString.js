@@ -1,0 +1,1 @@
+BytesToString(Buffer, 0, Buffer.Length, "UTF8")

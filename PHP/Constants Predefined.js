@@ -1,0 +1,1 @@
+//http://php.net/manual/en/pdo.constants.php

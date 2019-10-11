@@ -1,0 +1,1 @@
+txtIDE.IsReadOnly = false

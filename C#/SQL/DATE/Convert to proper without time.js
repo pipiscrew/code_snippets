@@ -1,0 +1,1 @@
+select convert(varchar(20),[TRANS_DATE],103) as [Ημερομηνία],REASON,CHARGE,FIX_CALC,CHARGE_DIFF,COMMENTS from [ACCOUNT_TRANSACTIONS]

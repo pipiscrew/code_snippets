@@ -1,0 +1,2 @@
+The Gravity property changes the way the image appears.
+The two most relevant values are Gravity.FILL (which will cause the image to fill the entire view) and Gravity.CENTER (which will draw the image in the view's center).

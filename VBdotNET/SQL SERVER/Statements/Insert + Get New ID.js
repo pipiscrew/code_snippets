@@ -1,0 +1,1 @@
+INSERT INTO [Places] (Places1,Places2,Places1eng) VALUES ('112335','212','312');SELECT SCOPE_IDENTITY();

@@ -1,0 +1,1 @@
+echo "<script type='text/javascript'>alert('" . $jsonArray['title'] . "');</script>";

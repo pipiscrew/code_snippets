@@ -1,0 +1,1 @@
+$("#yt_link").attr("href", "http://youtube.com/watch?v=" + video_id);

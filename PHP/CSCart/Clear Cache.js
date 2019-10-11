@@ -1,0 +1,1 @@
+Administration > Storage and choose the Clear cache tab

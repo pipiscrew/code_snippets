@@ -1,0 +1,1 @@
+DataRow[] filesWithAA = files.Select("FileName LIKE '%AA%'");

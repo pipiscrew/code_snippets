@@ -1,0 +1,1 @@
+String.valueOf(arg0.child("competitions").getChildrenCount()));

@@ -1,0 +1,1 @@
+string initialCatalog = new SqlConnectionStringBuilder(General.Conne.ConnectionString).InitialCatalog;
