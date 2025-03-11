@@ -65,4 +65,6 @@ End Function
 		grid1rs.ActiveConnection.Close
 		Set grid1rs.ActiveConnection = Nothing
 	End If
+
+	'... other sql queries below
 %>
