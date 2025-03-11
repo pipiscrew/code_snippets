@@ -43,7 +43,7 @@ End Function
 		grid1rs.movenext
 	wend
 
-	rs.movefirst 'set pointer to the start
+	grid1rs.movefirst 'set pointer to the start
 %>
 <table id="grid1" class="display compact nowrap"> 'datatables v1.11.5 (IE11 compatible)
 	<thead>
@@ -61,8 +61,8 @@ End Function
 </table>
 
 <%
-If Not grid1rs Is Nothing Then
-	grid1rs.ActiveConnection.Close
-	Set grid1rs.ActiveConnection = Nothing
-End If
+	If Not grid1rs Is Nothing Then
+		grid1rs.ActiveConnection.Close
+		Set grid1rs.ActiveConnection = Nothing
+	End If
 %>
